@@ -1,0 +1,32 @@
+#Formato:menu ingrediente1 ingrediente2-reemplazo ingrediente3
+hamburguesasConPure carnePicadaCerdo-carnePicadaRes-carnePicadaMix huevo cebolla trigoBurgol ajo panRallado-harina aceite papa
+hamburguesasConFritas carnePicadaCerdo-carnePicadaRes-carnePicadaMix huevo cebolla trigoBurgol ajo panRallado-harina aceite papa
+hamburguesasEnPan carnePicadaCerdo-carnePicadaRes-carnePicadaMix huevo cebolla trigoBurgol ajo panRallado-harina panCrudo lechuga tomate mayonesa-palta
+pastelDePapas carnePicadaCerdo-carnePicadaRes-carnePicadaMix huevo aceituna ajo panRallado-harina aceite papa
+bratwurstConPure bratwurst aceite papa
+bratwurstConFritas bratwurst aceite papa
+bratwurstEnPan bratwurst panCrudo lechuga tomate mayonesa-palta
+milanesasConPure bifeCerdo-bifeCarne huevo perejil ajo panRallado-harina aceite papa
+milanesasConFritas bifeCerdo-bifeCarne huevo perejil ajo panRallado-harina aceite papa
+nuggetsConPure nuggets aceite papa
+nuggetsConFritas nuggets aceite papa
+fideosSimples spaghetti-tirabuzon-monito aceiteDeOliva quesoRallado
+fideosSimplesConHuevo spaghetti-tirabuzon-monito aceiteDeOliva quesoRallado huevo
+fideosConCrema spaghetti-tirabuzon-monito-nioqui aceiteDeOliva quesoRallado crema
+fideosConRicotta spaghetti-tirabuzon-monito-nioqui aceiteDeOliva quesoRallado ricotta
+fideosConSalsaCarne spaghetti-tirabuzon-monito-noqui aceiteDeOliva quesoRallado carnePicadaCerdo-carnePicadaRes-carnePicadaMix salsaDeTomate cebolla
+tartaDeJamonYQueso harina aceite manteca queso jamon huevo
+tartaDeAtun harina aceite manteca atun queso pimiento
+pizza harina aceite salsaDeTomate queso jamon-milan-tomate-huevo
+fugazzeta harina aceite queso cebolla
+sandwichesAtun panCrudo mayonesa atun
+sandwiches panLactal mayonesa-palta jamon-milan queso
+omelette aceite huevo jamon queso pimiento
+polentaSola polenta manteca queso
+polentaConCarne polenta manteca queso carnePicadaCerdo-carnePicadaRes-carnePicadaMix salsaDeTomate cebolla
+empanadasCarne harina aceite manteca huevo carnePicadaRes cebolla verdeo huevo pimiento aceituna
+empanadasJamonYQueso harina aceite manteca huevo jamon queso
+sopaBrocoli brocoli calabacin-calabaza apio verdeo cebolla ajo
+sopaCalabacin calabacin ajo verdeo
+sopaPollo pollo calabacin-calabaza apio verdeo cebolla ajo
+picada chorizo queso jamonCrudo baguette
